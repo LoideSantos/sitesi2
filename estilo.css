@@ -11,3 +11,12 @@ h1{
     font-size: 18px;
     font-weight: bold;
 }
+
+.dir{
+    float: right;
+    margin:15px;
+}
+
+.clear{
+    clear: both;
+}
