@@ -2,6 +2,13 @@ body{
     background-color:#424f66;
 }
 
+.centraliza{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+
 h1{
     color:#d3d8e2;
 }
